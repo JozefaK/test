@@ -1,3 +1,4 @@
 "use strict";
 
-console.log("grana 1");
+console.log("grana 2");
+console.log("ver06");
